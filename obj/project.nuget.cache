@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "y3TqZJW9p7MqdxBQHm6vtuFhpQ8X6HFcMU9bPIf18bPQVLvIoYYc4qjTe6AwzEWEWW8KhmZZbxtsmo+iPudmVA==",
+  "dgSpecHash": "9nb8dcXvKYeny8LSgVP0djdxsbCuGByX58TaMANUgqdfCT6RmnqSshZqkjXgoBrsi1JoF6JRqOr4Syrd/WuOag==",
   "success": true,
   "projectFilePath": "D:\\personal-github\\RedisCacheNETCore\\RedisCacheNETCore.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\alberto.paulo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\alberto.paulo\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\alberto.paulo\\.nuget\\packages\\stackexchange.redis\\2.7.10\\stackexchange.redis.2.7.10.nupkg.sha512",
+    "C:\\Users\\alberto.paulo\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
